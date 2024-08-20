@@ -43,5 +43,10 @@ public class Client {
         Map<String, Integer> map = new HashMap<>();
         List<Double> list1 = new ArrayList<>();
         Map<Double, String> map2 = new HashMap<>();
+
+        Pair<Integer, Double> p10 = new Pair<>(100, 10.1);
+        p10.doSomething(100);
+        p10.heyThere(80, 100.9, false);
+
     }
 }

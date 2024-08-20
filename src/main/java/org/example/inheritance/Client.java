@@ -15,5 +15,26 @@ public class Client {
         List<Cat> cats = new ArrayList<>();
         List<Snake> snakes = new ArrayList<>();
 
+        animalKingdom.doSomething(animals);
+        animalKingdom.doSomething(mammals);
+        animalKingdom.doSomething(reptiles);
+        animalKingdom.doSomething(dogs);
+        animalKingdom.doSomething(cats);
+        animalKingdom.doSomething(snakes);
+
+        animalKingdom.doSomethingMore(animals, mammals);
+        animalKingdom.doSomethingMore(cats, dogs);
+        animalKingdom.doSomethingMore(mammals, reptiles);
+
+//        animalKingdom.doMammalThing(animals);
+        animalKingdom.doMammalThing(mammals);
+        animalKingdom.doMammalThing(cats);
+//        animalKingdom.doMammalThing(snakes);
+
+        animalKingdom.doLowerBoundThing(dogs);
+//        animalKingdom.doLowerBoundThing(reptiles);
+//        animalKingdom.doLowerBoundThing(cats);
+        animalKingdom.doLowerBoundThing(mammals);
+        animalKingdom.doLowerBoundThing(animals);
     }
 }
