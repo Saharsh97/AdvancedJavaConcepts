@@ -1,6 +1,6 @@
-package org.example.backwardsCompatible;
+package org.example.GenericsConcepts.backwardsCompatible;
 
-import org.example.genericsUsingObject.Pair;
+import org.example.GenericsConcepts.genericsUsingObject.Pair;
 
 import java.util.ArrayList;
 import java.util.HashMap;

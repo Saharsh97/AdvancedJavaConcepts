@@ -1,4 +1,4 @@
-package org.example.generics;
+package org.example.GenericsConcepts.generics;
 
 public class Pair<A, B> {
     A first;

@@ -1,6 +1,6 @@
-package org.example.inheritance;
+package org.example.GenericsConcepts.inheritance;
 
-import org.example.inheritance.hierarchies.*;
+import org.example.GenericsConcepts.inheritance.hierarchies.*;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.example.genericsUsingObject;
+package org.example.GenericsConcepts.genericsUsingObject;
 
 public class Pair {
     Object first;

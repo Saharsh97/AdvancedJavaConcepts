@@ -1,4 +1,4 @@
-package org.example.genericsUsingObject;
+package org.example.GenericsConcepts.genericsUsingObject;
 
 import java.util.ArrayList;
 import java.util.List;

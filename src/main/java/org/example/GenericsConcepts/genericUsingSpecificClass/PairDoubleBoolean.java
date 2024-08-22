@@ -1,4 +1,4 @@
-package org.example.genericUsingSpecificClass;
+package org.example.GenericsConcepts.genericUsingSpecificClass;
 
 public class PairDoubleBoolean {
     Double first;

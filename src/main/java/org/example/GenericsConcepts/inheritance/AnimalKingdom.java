@@ -1,8 +1,8 @@
-package org.example.inheritance;
+package org.example.GenericsConcepts.inheritance;
 
-import org.example.inheritance.hierarchies.Animal;
-import org.example.inheritance.hierarchies.Dog;
-import org.example.inheritance.hierarchies.Mammal;
+import org.example.GenericsConcepts.inheritance.hierarchies.Animal;
+import org.example.GenericsConcepts.inheritance.hierarchies.Dog;
+import org.example.GenericsConcepts.inheritance.hierarchies.Mammal;
 
 import java.util.List;
 

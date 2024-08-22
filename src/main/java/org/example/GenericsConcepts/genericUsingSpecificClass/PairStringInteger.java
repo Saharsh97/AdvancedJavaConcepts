@@ -1,4 +1,4 @@
-package org.example.genericUsingSpecificClass;
+package org.example.GenericsConcepts.genericUsingSpecificClass;
 
 // 1st approach
 public class PairStringInteger {

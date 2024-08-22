@@ -1,4 +1,4 @@
-package org.example.backwardsCompatible;
+package org.example.GenericsConcepts.backwardsCompatible;
 
 public class Pair {
     Object first;
